@@ -526,7 +526,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a5dm4g0srkjvpYvR70aV-86" value="                        待运   装机                                                                                                                                                                  站内                                                                                                                                                                   收运                              " style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=80;horizontal=0;horizontalStack=1;fontSize=20;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="a5dm4g0srkjvpYvR70aV-86" value="                        待运   装机                                                                                                                                                                  站内                                                                                                                                                                   收运                              " style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=80;horizontal=0;horizontalStack=1;fontSize=21;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="1285" height="2330" as="geometry" />
         </mxCell>
         <mxCell id="a5dm4g0srkjvpYvR70aV-87" value="航司" style="swimlane;startSize=40;fontSize=20;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="a5dm4g0srkjvpYvR70aV-86">
