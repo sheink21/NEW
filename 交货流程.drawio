@@ -2848,15 +2848,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IovsVVSnJ50p9wK7X3n9" name="海关查验">
-    <mxGraphModel dx="1443" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2525" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-9" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-140" width="2120" height="2940" as="geometry" />
+          <mxGeometry x="210" y="-140" width="2120" height="3170" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-10" value="门户" style="swimlane;startSize=60;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=16;strokeWidth=3;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-9">
-          <mxGeometry x="20" width="680" height="2940" as="geometry" />
+          <mxGeometry x="20" width="680" height="3170" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;【查验通知列表】&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;【查验通知详情】&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;海关发送查验通知后，货代工作人员可查询通知内容&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-10">
           <mxGeometry x="202.5" y="210" width="255" height="80" as="geometry" />
@@ -2865,10 +2865,10 @@
           <mxGeometry x="261" y="560" width="255" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-11" value="物流公共信息平台&#xa;（货运生产平台，与电子运单共存）" style="swimlane;startSize=60;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=16;strokeWidth=3;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-9">
-          <mxGeometry x="700" width="630" height="2940" as="geometry" />
+          <mxGeometry x="700" width="630" height="3170" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-12" value="信息交换平台" style="swimlane;startSize=60;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=16;strokeWidth=3;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-9">
-          <mxGeometry x="1330" width="790" height="2940" as="geometry" />
+          <mxGeometry x="1330" width="790" height="3170" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-79" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;·&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;报关信息：&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;货站代码、&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;查验场地代码、&lt;/div&gt;&lt;div&gt;报关单号、&lt;/div&gt;&lt;div&gt;进出口标识（出口or进口）、&lt;/div&gt;&lt;div&gt;危险品标识（否or是）；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2119051053926516;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-12">
           <mxGeometry x="90" y="625" width="160" height="140" as="geometry" />
@@ -2891,8 +2891,14 @@
         <mxCell id="l94DbEaReENl6JKYS7W7-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预约编号、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;货站代码、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;报关单号、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提运单号、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查验结果、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查验完成时间、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查验人员&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.16785719735281646;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-12">
           <mxGeometry x="457" y="2288" width="206" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="DBbRtvyBOJwjYfh5OEk2-97" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;报关单号、&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;提运单号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;舱单编号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;进出口标识、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;企业名称、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;通知类型、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验关区、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验方式、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;检查类型、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;是否核对重量、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;卸货地代码、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验通知发出时间、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;运输工具航次/批次号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;运输工具名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;操作&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.07615368182842548;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-12">
+          <mxGeometry x="390" y="170" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l94DbEaReENl6JKYS7W7-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预约编号、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;货站代码、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;报关单号、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提运单号、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查验场地代码、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;调货到场时间&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.16785719735281646;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-12">
+          <mxGeometry x="354" y="980" width="173" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-13" value="海关单一窗口" style="swimlane;startSize=60;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=16;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="-140" width="770" height="2940" as="geometry" />
+          <mxGeometry x="2330" y="-140" width="770" height="3170" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF0F37;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-15" target="DBbRtvyBOJwjYfh5OEk2-17">
           <mxGeometry relative="1" as="geometry" />
@@ -2929,7 +2935,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-86" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【发送查验中止通知】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关发现不满足查验要求时，向货站/货代口头告知需要中止，向货代工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
+        <mxCell id="DBbRtvyBOJwjYfh5OEk2-86" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【发送查验中止通知】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关发现不满足查验要求时，向货站/货代口头告知需要中止，货代工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1873" y="2040" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-87" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【查看查验结果】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知查验放行or不放行，货代工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
@@ -2937,6 +2943,9 @@
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;【查看移位通知信息】&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知移位时间，货站工作人员可以查看海关通知&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1248" y="1340" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l94DbEaReENl6JKYS7W7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF1241;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-31" target="DBbRtvyBOJwjYfh5OEk2-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;【移入】&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;货站工作人员在线下，按照预约先后顺序，把货物移至海关查验指定地方，线上把移入货物状态告知海关&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1263" y="1024" width="260" height="100" as="geometry" />
@@ -2947,19 +2956,16 @@
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-49" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【移出】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;货站工作人员在线下，对于完成查验工作的货物移至原来的位置，这个动作只需要告诉货代，无需告诉海关&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1243" y="2830" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【查看查验结果】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知查验放行or不放行，货代、货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
+        <mxCell id="DBbRtvyBOJwjYfh5OEk2-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【查看查验结果】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知查验放行or不放行，货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1243" y="2440" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-73" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【发送查验中止通知】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关发现不满足查验要求时，向货站/货代口头告知需要中止，向货代、货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
+        <mxCell id="DBbRtvyBOJwjYfh5OEk2-73" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【发送查验中止通知】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关发现不满足查验要求时，向货站/货代口头告知需要中止，货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1248" y="2030" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-47" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【查看查验开始信息】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知开始查验时间，货代、货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
+        <mxCell id="DBbRtvyBOJwjYfh5OEk2-47" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;【查看查验开始信息】&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;海关告知开始查验时间，货站工作人员可以查看&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
           <mxGeometry x="-1243" y="1684" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0F37;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-38" target="DBbRtvyBOJwjYfh5OEk2-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0F37;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-31" target="DBbRtvyBOJwjYfh5OEk2-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0F37;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-21" target="DBbRtvyBOJwjYfh5OEk2-23">
@@ -3079,9 +3085,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;+移入确认&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;-移出确认&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="DBbRtvyBOJwjYfh5OEk2-13">
-          <mxGeometry x="-633" y="1030" width="130" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#FF0D25;" edge="1" parent="DBbRtvyBOJwjYfh5OEk2-13" source="DBbRtvyBOJwjYfh5OEk2-63" target="DBbRtvyBOJwjYfh5OEk2-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3096,9 +3099,6 @@
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF0F37;" edge="1" parent="1" source="DBbRtvyBOJwjYfh5OEk2-49" target="DBbRtvyBOJwjYfh5OEk2-50">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DBbRtvyBOJwjYfh5OEk2-97" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;报关单号、&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;提运单号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;舱单编号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;进出口标识、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;企业名称、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;通知类型、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验关区、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验方式、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;检查类型、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;是否核对重量、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;卸货地代码、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;查验通知发出时间、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;运输工具航次/批次号、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;运输工具名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;操作&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.07615368182842548;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="30" width="240" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DBbRtvyBOJwjYfh5OEk2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF1249;" edge="1" parent="1" source="DBbRtvyBOJwjYfh5OEk2-20" target="DBbRtvyBOJwjYfh5OEk2-19">
           <mxGeometry relative="1" as="geometry">
