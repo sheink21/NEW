@@ -4574,6 +4574,12 @@
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-305" value="自己区域" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-11">
           <mxGeometry x="47.999999999999545" y="10960" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g2WE96Hb2C5XzC9nXkmC-302" value="地勤交接区拉到主单分拣区" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-11">
+          <mxGeometry x="64.99999999999955" y="10590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2WE96Hb2C5XzC9nXkmC-303" value="回收空板空箱" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-11">
+          <mxGeometry x="59.999999999999545" y="10770" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-12" value="企业总线ESB" style="swimlane;startSize=20;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="2330.0000000000005" y="70" width="310" height="20110" as="geometry" />
         </mxCell>
@@ -4834,6 +4840,9 @@
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-296" value="自动录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1610" y="10298" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g2WE96Hb2C5XzC9nXkmC-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g2WE96Hb2C5XzC9nXkmC-298" target="g2WE96Hb2C5XzC9nXkmC-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-298" value="接收货物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="10660" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4856,12 +4865,6 @@
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-299" value="主单分拣理货" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="10840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g2WE96Hb2C5XzC9nXkmC-302" value="地勤交接区拉到主单分拣区" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="10620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g2WE96Hb2C5XzC9nXkmC-303" value="回收空板空箱" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="10810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-304" value="主单拉到分担仓（代理）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="10970" width="120" height="60" as="geometry" />
