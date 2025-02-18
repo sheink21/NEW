@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OR5_q0j_3Ir_D7pYDCoH" name="高控">
-    <mxGraphModel dx="1737" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4127,9 +4127,6 @@
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-230" value="发报文？" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="79.99999999999955" y="7920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g2WE96Hb2C5XzC9nXkmC-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g2WE96Hb2C5XzC9nXkmC-8" source="g2WE96Hb2C5XzC9nXkmC-243" target="g2WE96Hb2C5XzC9nXkmC-245">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-243" value="组板" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="89.99999999999955" y="8680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4144,9 +4141,6 @@
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-247" value="适航性" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="89.99999999999955" y="8970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g2WE96Hb2C5XzC9nXkmC-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g2WE96Hb2C5XzC9nXkmC-8" source="g2WE96Hb2C5XzC9nXkmC-250" target="g2WE96Hb2C5XzC9nXkmC-252">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-250" value="读结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="89.99999999999955" y="9120" width="120" height="60" as="geometry" />
@@ -4164,9 +4158,6 @@
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-252" value="航班计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="89.99999999999955" y="9260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g2WE96Hb2C5XzC9nXkmC-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g2WE96Hb2C5XzC9nXkmC-8" source="g2WE96Hb2C5XzC9nXkmC-254" target="g2WE96Hb2C5XzC9nXkmC-256">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2WE96Hb2C5XzC9nXkmC-254" value="仓储" style="whiteSpace=wrap;html=1;" vertex="1" parent="g2WE96Hb2C5XzC9nXkmC-8">
           <mxGeometry x="89.99999999999955" y="9400" width="120" height="60" as="geometry" />
