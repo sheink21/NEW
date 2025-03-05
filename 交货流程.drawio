@@ -5012,12 +5012,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A6qDJMVeWyjdlsjnKhBX" name="服务蓝图">
-    <mxGraphModel dx="1226" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="1370" height="160" as="geometry" />
+          <mxGeometry x="30" y="-20" width="2070" height="190" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;户&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="70" height="160" as="geometry" />
@@ -5050,7 +5050,7 @@
           <mxGeometry x="414" y="115" width="106" height="35" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="1350" height="160" as="geometry" />
+          <mxGeometry x="30" y="200" width="2070" height="160" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;前&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="70" height="160" as="geometry" />
@@ -5074,7 +5074,7 @@
           <mxGeometry x="413" y="215" width="106" height="35" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="29" y="390" width="1341" height="160" as="geometry" />
+          <mxGeometry x="29" y="390" width="2071" height="160" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;后&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="29" y="390" width="70" height="160" as="geometry" />
@@ -5094,11 +5094,14 @@
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-29" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;OCR识别报告&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="407.5" width="111" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-31" target="26bLJ3WEaucfwv7T7Cb1-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-31" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;人工审核&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="735.5" y="500" width="107" height="35" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="34.5" y="585" width="1341" height="215" as="geometry" />
+          <mxGeometry x="34.5" y="585" width="2065.5" height="215" as="geometry" />
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-43" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;支&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;持&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="34.5" y="585" width="70" height="215" as="geometry" />
@@ -5112,14 +5115,24 @@
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-46" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;1.报告类型&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;2.测试报告文件&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;3.测试报告编号&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;4.SKU/SKC&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;5.货物品名&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; letter-spacing: 0px;&quot;&gt;&lt;font&gt;6电池类型&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="250" y="600" width="115.5" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="26bLJ3WEaucfwv7T7Cb1-47" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;带电渠道出货&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="810" width="111" height="35" as="geometry" />
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="26bLJ3WEaucfwv7T7Cb1-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="515" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="26bLJ3WEaucfwv7T7Cb1-48" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;推送提单数据&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="850" width="107" height="35" as="geometry" />
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-47" target="26bLJ3WEaucfwv7T7Cb1-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="26bLJ3WEaucfwv7T7Cb1-49" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;货物信息检查&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="840" y="830" width="111" height="35" as="geometry" />
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-47" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;安全检查&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1669" y="497.5" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-48" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;安检放行&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="497.5" width="107" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="26bLJ3WEaucfwv7T7Cb1-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1609.9999999999995" y="515" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-55" target="26bLJ3WEaucfwv7T7Cb1-57">
           <mxGeometry relative="1" as="geometry" />
@@ -5154,13 +5167,148 @@
         <mxCell id="26bLJ3WEaucfwv7T7Cb1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-75" target="26bLJ3WEaucfwv7T7Cb1-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="666" y="520" />
+              <mxPoint x="536" y="520" />
               <mxPoint x="466" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="26bLJ3WEaucfwv7T7Cb1-75" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;识别内容：&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;1、UN38.3测试报告内容(报告编号、电池型号、CNAS认证、额定能量)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;2.额定能量不存在时，识别电压、容量，（电压+能量）/1000=锂离子额定能量&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;3.MSDS、1.2米跌落报告不许识别内容，仅判断识别系统即可&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="381" y="642.5" width="570" height="100" as="geometry" />
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-75" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;识别内容：&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;1、UN38.3测试报告内容(报告编号、电池&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;型号、&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(16, 16, 16), rgb(223, 223, 223)); font-family: PingFangSC;&quot;&gt;CNAS认证、额定能量)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;2.额定能量不存在时，识别电压、容量，&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;（电压+能量）/1000=锂离子额定能量&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;3.MSDS、1.2米跌落报告不许识别内容，&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;仅判断识别系统即可&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="381" y="600" width="309" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-81" target="26bLJ3WEaucfwv7T7Cb1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-81" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;审核内容：&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;1.报告全不全&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;2.锂离子额定能量&amp;lt;20wh&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;3.锂金属额定能量&amp;lt;0.3g&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;4.是否有CNAS认证&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="620" width="188" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-83" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;推送审核结果&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="950" y="405" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-85" target="26bLJ3WEaucfwv7T7Cb1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-85" target="26bLJ3WEaucfwv7T7Cb1-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-85" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;接受审核结果&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-87" value="备案失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-88" target="26bLJ3WEaucfwv7T7Cb1-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-88" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;发货&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="120" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-90" value="备案成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-93" target="26bLJ3WEaucfwv7T7Cb1-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-93" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;产生包裹&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="217.5" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-95" target="26bLJ3WEaucfwv7T7Cb1-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-95" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;发送敏感品清单&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1135.5" y="305" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-97" target="26bLJ3WEaucfwv7T7Cb1-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-97" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;接受敏感品清单&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1135.5" y="400" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-99" target="26bLJ3WEaucfwv7T7Cb1-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-99" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;1.运单号&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;2.SKU/SKC&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;3.大箱号&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;4.包裹号&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;5航班号&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;6.目的地&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="622.5" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-101" target="26bLJ3WEaucfwv7T7Cb1-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-101" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;生成退货请求&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="120" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-112" target="26bLJ3WEaucfwv7T7Cb1-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-102" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;接受退货请求&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="215" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-103" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;取消收运&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="302.5" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-104" target="26bLJ3WEaucfwv7T7Cb1-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-104" value="&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;货物收运&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="497.5" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-108" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="285" width="39" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-110" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1365.5" y="365" width="39" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-102" target="26bLJ3WEaucfwv7T7Cb1-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405" y="250" as="sourcePoint" />
+            <mxPoint x="1405" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-112" target="26bLJ3WEaucfwv7T7Cb1-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-112" value="是否&lt;div&gt;取消发货&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1365.5" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-121" target="26bLJ3WEaucfwv7T7Cb1-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-121" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;审核内容：&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;1.是否备案&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;PingFangSC&quot; color=&quot;#101010&quot;&gt;2.文实相符&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="610" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-124" target="26bLJ3WEaucfwv7T7Cb1-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="410" />
+              <mxPoint x="1710" y="410" />
+              <mxPoint x="1710" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-124" value="收运检查" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-127" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="488" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-128" target="26bLJ3WEaucfwv7T7Cb1-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-128" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="26bLJ3WEaucfwv7T7Cb1-130" target="26bLJ3WEaucfwv7T7Cb1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-130" value="&lt;p&gt;&lt;span style=&quot;color: rgb(16, 16, 16); font-family: PingFangSC; line-height: 39px; letter-spacing: 0px;&quot;&gt;&lt;font&gt;接受审核结果&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1814.5" y="222.5" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-135" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-136" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1865.5" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26bLJ3WEaucfwv7T7Cb1-137" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="520" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
